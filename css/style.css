@@ -1162,7 +1162,7 @@ textarea{
 
 
 
-@media(max-width: 480px){
+@media screen and (max-width: 480px){
 	.topbar{
 		width: 100%;
 		height: 95px;

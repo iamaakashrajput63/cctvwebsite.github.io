@@ -977,7 +977,7 @@ textarea{
 	background: #6C6B6B;
 }
 	
-/*.get-updates{
+.get-updates{
 	width: 1000px;
 	height: 150px;
 	background: var(--gain-color);
@@ -1012,7 +1012,7 @@ textarea{
 }
 .keko:hover{
 	background: #565656;
-}*/
+}
 
 .footer{
 	width: 100%;
